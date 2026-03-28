@@ -2,7 +2,7 @@
 
 **Author:** Prabudh Sharma  
 🔗 **GitHub Profile:** https://github.com/sharmaprabudh  
-📂 **Project Repository:** https://github.com/sharmaprabudh/PERSONAL-EXPENSE-TRACKER-PYTHON-BACKEND-
+📂 **Project Repository:** https://github.com/sharmaprabudh/PERSONAL-EXPENSE-TRACKER-PYTHON-BACKEND- 
 💼 **LinkedIn:** https://www.linkedin.com/in/prabudh-sharma-680235205/
 
 ---
@@ -169,7 +169,7 @@ python expense_tracker.py
 ## 👨‍💻 Author
 **Prabudh Sharma**  
 🔗 GitHub: https://github.com/sharmaprabudh  
-📂 Repository: https://github.com/sharmaprabudh/PERSONAL-EXPENSE-TRACKER-PYTHON-BACKEND-
+📂 Repository: https://github.com/sharmaprabudh/PERSONAL-EXPENSE-TRACKER-PYTHON-BACKEND- 
 💼 LinkedIn: https://www.linkedin.com/in/prabudh-sharma-680235205/
 
 ---
